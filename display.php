@@ -6,5 +6,6 @@
 </head>
 <body>
 <?php echo $_GET['name']; ?>
+<?php echo $_GET['age']; ?>
 </body>
 </html>

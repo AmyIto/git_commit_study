@@ -7,6 +7,7 @@
 <body>
 <form action="display.php" method="get">
 <input type="text" name="name">
+<input type="text" name="age">
 <input type="submit" value="送信">
 </form>
 </body>
